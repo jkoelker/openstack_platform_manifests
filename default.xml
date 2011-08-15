@@ -7,6 +7,7 @@
     <default remote="github-openstack" revision="master" />
 
     <project path="nova" name="nova" />
+    <project path="glance" name="glance" />
     <project path="keystone" name="keystone" />
     <project path="swift" name="swift" />
 </manifest>
