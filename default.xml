@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github-openstack"
+            fetch="git://github.com/openstack/"
+            review="review.openstack.org" />
+
+    <default remote="github-openstack" revision="master" />
+
+    <project path="nova" name="nova" />
+    <project path="keystone" name="keystone" />
+    <project path="swift" name="swift" />
+</manifest>
