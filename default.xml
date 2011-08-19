@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="github-openstack"
-            fetch="git://github.com/openstack/"
+            fetch="git://github.com/"
             review="review.openstack.org" />
 
     <default remote="github-openstack" revision="master" />
