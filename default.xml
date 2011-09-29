@@ -10,4 +10,5 @@
     <project path="glance" name="openstack/glance" />
     <project path="keystone" name="openstack/keystone" />
     <project path="swift" name="openstack/swift" />
+    <project path="quantum" name="openstack/quantum" />
 </manifest>
