@@ -16,4 +16,6 @@
 
     <project path="openstack/nose_plugin"
              name="openstack-dev/openstack-nose" />
+    <project path="devstack"
+             name="openstack-dev/devstack" />
 </manifest>
