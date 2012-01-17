@@ -18,4 +18,11 @@
              name="openstack-dev/openstack-nose" />
     <project path="devstack"
              name="openstack-dev/devstack" />
+
+    <project path="clients/melange"
+             name="opentack/python-melangeclient" />
+    <project path="clients/nova"
+             name="opentack/python-novaclient" />
+    <project path="clients/keystone"
+             name="opentack/python-keystoneclient" />
 </manifest>
