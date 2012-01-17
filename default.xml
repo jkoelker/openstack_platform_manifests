@@ -20,9 +20,9 @@
              name="openstack-dev/devstack" />
 
     <project path="clients/melange"
-             name="opentack/python-melangeclient" />
+             name="openstack/python-melangeclient" />
     <project path="clients/nova"
-             name="opentack/python-novaclient" />
+             name="openstack/python-novaclient" />
     <project path="clients/keystone"
-             name="opentack/python-keystoneclient" />
+             name="openstack/python-keystoneclient" />
 </manifest>
