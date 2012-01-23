@@ -22,6 +22,9 @@
 
     <project path="clients/melange"
              name="openstack/python-melangeclient" />
+    <project path="clients/quantum"
+             name="openstack/python-quantumclient" />
+    <project path="clients/nova"
     <project path="clients/nova"
              name="openstack/python-novaclient" />
     <project path="clients/keystone"
