@@ -11,8 +11,8 @@
     <project path="keystone" name="openstack/keystone" />
     <project path="swift" name="openstack/swift" />
     <project path="quantum" name="openstack/quantum" />
-    <project path="melange" name="openstack/melange" />
     <project path="horizon" name="openstack/horizon" />
+    <project path="tempest" name="openstack/tempest" />
     <project path="openstack/common" name="openstack/openstack-common" />
 
     <project path="openstack/nose_plugin"
