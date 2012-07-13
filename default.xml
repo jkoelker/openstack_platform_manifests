@@ -20,8 +20,6 @@
     <project path="devstack"
              name="openstack-dev/devstack" />
 
-    <project path="clients/melange"
-             name="openstack/python-melangeclient" />
     <project path="clients/quantum"
              name="openstack/python-quantumclient" />
     <project path="clients/nova"
