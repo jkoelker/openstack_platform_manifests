@@ -13,7 +13,7 @@
     <project path="quantum" name="openstack/quantum" />
     <project path="horizon" name="openstack/horizon" />
     <project path="tempest" name="openstack/tempest" />
-    <project path="openstack/common" name="openstack/openstack-common" />
+    <project path="oslo/incubator" name="openstack/oslo-incubator" />
 
     <project path="openstack/nose_plugin"
              name="openstack-dev/openstack-nose" />
