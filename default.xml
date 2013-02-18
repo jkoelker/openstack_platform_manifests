@@ -14,6 +14,7 @@
     <project path="horizon" name="openstack/horizon" />
     <project path="tempest" name="openstack/tempest" />
     <project path="oslo/incubator" name="openstack/oslo-incubator" />
+    <project path="oslo/config" name="openstack/oslo-config" />
 
     <project path="openstack/nose_plugin"
              name="openstack-dev/openstack-nose" />
